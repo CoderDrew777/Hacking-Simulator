@@ -1,3 +1,6 @@
+# GO TO THE CODE SECTION OF THIS README
+
+
 # CODE (python) made by zktrade on discord
 
 import tkinter as tk
